@@ -1,3 +1,4 @@
+package Lec04;
 public class Lec04_Loop04 {
     public static void main(String[] args){
         int i = 0;

@@ -1,3 +1,4 @@
+package Lec04;
 import java.util.*;
 
 public class Lec04_Loop06 {

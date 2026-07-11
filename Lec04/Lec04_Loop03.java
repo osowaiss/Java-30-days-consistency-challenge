@@ -1,3 +1,4 @@
+package Lec04;
 public class Lec04_Loop03 {
     public static void main(String[] args){
         //using while loop 
