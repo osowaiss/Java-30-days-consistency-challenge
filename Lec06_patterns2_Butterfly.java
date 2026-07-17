@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lec05_patterns_01Triangle {
+public class Lec06_patterns2_Butterfly {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of n to see the Butterfly pattern formed");
