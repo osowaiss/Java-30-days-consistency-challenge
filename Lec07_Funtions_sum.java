@@ -14,7 +14,6 @@ public class Lec07_Funtions_sum {
         int b = sc.nextInt();
 
         int sum = calculateSum(a, b);
-        System.out.println("The Sum of the given numbers is :");
-        System.out.println(sum);
+        System.out.println("The Sum of the given numbers is :"+sum);
     }
 }
